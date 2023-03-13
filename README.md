@@ -1,1 +1,1 @@
-answesr to 0x00-shell_basics
+answers to shell 0X00-shell_basics
